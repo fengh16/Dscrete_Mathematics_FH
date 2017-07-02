@@ -1,4 +1,10 @@
-# Dscrete_Mathematics_FH
-Course Project For DM.
-Spring, 2016-2017.
-By fengh16.
+# Cpclash
+
+Course Project For `DM`. The final version.
+
+****
+### Author:fengh16
+### E-mail:fengh16@163.com
+****
+
+　　离散作业
